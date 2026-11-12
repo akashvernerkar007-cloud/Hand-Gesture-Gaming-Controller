@@ -1,0 +1,9 @@
+{
+  "name": "gesturedrive",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Edge/Chrome extension: scroll with your index finger, steer browser games with your thumbs.",
+  "scripts": {
+    "test": "node tests/logic-test.js"
+  }
+}
