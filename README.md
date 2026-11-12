@@ -3,6 +3,16 @@
 Edge/Chrome extension (Manifest V3). Scroll any page with your index finger and steer browser games
 (like an Angular car game) with your thumbs, using your webcam. Everything runs on your device.
 
+
+
+<img width="1536" height="1024" alt="0b5cc434-c7f6-4083-b9f0-90d2e27cddec" src="https://github.com/user-attachments/assets/b6a5e36d-1f36-498b-a1ad-ff5576706d8b" />
+
+
+
+
+
+
+
 | Gesture | Action |
 |---|---|
 | Index finger up, other fingers curled | Scroll (move the finger up or down) |
@@ -10,7 +20,6 @@ Edge/Chrome extension (Manifest V3). Scroll any page with your index finger and 
 | Right hand fist, thumb out | Steer right (holds ArrowRight) |
 
 ## Install
-
 1. Clone or download this repo.
 2. Open `edge://extensions` (or `chrome://extensions`) and turn on **Developer mode**.
 3. Click **Load unpacked** and choose the **`extension`** folder (the one containing `manifest.json`).
