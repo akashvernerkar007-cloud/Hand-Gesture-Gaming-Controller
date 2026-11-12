@@ -37,12 +37,5 @@ Scroll speed, invert scroll, swap left/right hand, steer with arrow keys, and Fa
 - `extension/tracker.*` and `extension/gesture-logic.js` run camera + hand tracking in an isolated extension frame.
 - `extension/mediapipe/` is the bundled MediaPipe Hands runtime (Manifest V3 forbids loading code from the internet).
 
-## Development
 
-```
-npm test    # unit tests for the gesture logic (needs Node, no dependencies)
-```
 
-After editing, press the reload icon for the extension in `edge://extensions` and refresh your page.
-
-See `THIRD_PARTY_NOTICES.md` for bundled third-party code.
